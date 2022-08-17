@@ -1,7 +1,7 @@
 # Laptop Centre
 
 ## We excel at providing best deals on laptops at affordable prices with easy-order and cash on delivery services.
-### Our service is smoothly sponsered by speedy single page application based on Reactjs
+Our service is smoothly sponsored by speedy single page application based on Reactjs. It is advised to use local json-server package in your local json database file, so that application runs without an error. "react-db.json" is already provided for your reference in the files section.
 
 ![laptop](https://user-images.githubusercontent.com/95460021/185061790-02339c79-ffbb-4195-82ce-e9e2f761af9c.jpg)
 
