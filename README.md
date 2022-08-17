@@ -5,6 +5,9 @@ Our service is smoothly sponsored by speedy single page application based on Rea
 
 ![laptop](https://user-images.githubusercontent.com/95460021/185061790-02339c79-ffbb-4195-82ce-e9e2f761af9c.jpg)
 
+Basic UI of the website is as follows :
+![basic ui](https://user-images.githubusercontent.com/95460021/185089815-f3935527-d1fa-4771-9b9a-2d46d9496470.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
