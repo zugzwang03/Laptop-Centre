@@ -10,19 +10,18 @@ export default class ShoppingCart extends Component {
     //initialization of the state
     this.state = {
       products: [
-        { id: 1, productName: "Dell Inspiron", price: 60000, quantity: 1 },
-        { id: 2, productName: "Acer", price: 45000, quantity: 1 },
-        { id: 3, productName: "HP Pavillion", price: 62000, quantity: 5 },
-        { id: 4, productName: "Dell Vostro", price: 50000, quantity: 7 },
-        { id: 5, productName: "Lenevo", price: 55000, quantity: 2 },
-        { id: 6, productName: "Asus", price: 44000, quantity: 2 },
-        {
-          id: 7,
-          productName: "Apple MacBook Pro",
-          price: 184000,
-          quantity: 1,
-        },
-        { id: 8, productName: "Asus core i3", price: 28990, quantity: 4 },
+      //   { id: 1, productName: "Dell Inspiron", price: 60000,quantity: 1 },
+      //   { id: 2, productName: "Acer", price: 45000,quantity: 1 },
+      //   { id: 3, productName: "HP Pavillion", price: 62000,quantity: 5 },
+      //   { id: 4, productName: "Dell Vostro", price: 50000,quantity: 7 },
+      //   { id: 5, productName: "Lenevo", price: 55000,quantity: 2 },
+      //   { id: 6, productName: "Asus", price: 44000,quantity: 2 },
+      //   {
+      //     id: 7,
+      //     productName: "Apple MacBook Pro",
+      //     price: 184000,quantity: 1,
+      //   },
+      //   { id: 8, productName: "Asus core i3", price: 28990,quantity: 4 },
       ],
     };
   }
