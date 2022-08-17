@@ -1,3 +1,11 @@
+# Laptop Centre
+
+## We excel at providing best deals on laptops at affordable prices with easy-order and cash on delivery services.
+### Our service is smoothly sponsered by speedy single page application based on Reactjs
+
+![laptop](https://user-images.githubusercontent.com/95460021/185061790-02339c79-ffbb-4195-82ce-e9e2f761af9c.jpg)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
